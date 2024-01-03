@@ -2,3 +2,6 @@
 ## Projekt célja
 
 ## Projekt futtatása
+
+# Szabályok
+
